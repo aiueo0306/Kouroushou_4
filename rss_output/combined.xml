@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 01 Aug 2026 23:51:06 +0000</lastBuildDate><item><title>【薬事審議会（医薬品等安全対策部会（安全対策調査会））】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 02 Aug 2026 02:03:14 +0000</lastBuildDate><item><title>【薬事審議会（医薬品等安全対策部会（安全対策調査会））】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,44 +9,4 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:107efb11358b58d462ac5f6b3f696aae455a4725</guid></item><item><title>【薬事審議会（医薬品等安全対策部会（安全対策調査会））】【2026-07-29】令和８年度第５回
-
-
-2026年7月29日（令和8年7月29日）
-（１）オランザピンの「使用上の注意」の改訂について
-（２）​一般用医薬品のリスク区分について
-・ロキソプロフェン
-（３）その他
-－
-
-資料NEW
-7月29日
-
-遵守事項等資料［PDF形式：864KB］NEW
-7月29日
-
-
-
-
-開催案内NEW
-7月22日</title><link>https://www.mhlw.go.jp/content/11121000/001729668.pdf</link><description>令和８年度第５回
-
-
-2026年7月29日（令和8年7月29日）
-（１）オランザピンの「使用上の注意」の改訂について
-（２）​一般用医薬品のリスク区分について
-・ロキソプロフェン
-（３）その他
-－
-
-資料NEW
-7月29日
-
-遵守事項等資料［PDF形式：864KB］NEW
-7月29日
-
-
-
-
-開催案内NEW
-7月22日</description><guid isPermaLink="false">https://www.mhlw.go.jp/content/11121000/001729668.pdf#20260729</guid><pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:107efb11358b58d462ac5f6b3f696aae455a4725</guid></item></channel></rss>
