@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 30 Aug 2026 21:46:40 +0000</lastBuildDate><item><title>【薬事審議会（医薬品等安全対策部会（安全対策調査会））】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 31 Aug 2026 00:06:13 +0000</lastBuildDate><item><title>【薬事審議会（医薬品等安全対策部会（安全対策調査会））】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,44 +9,4 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:107efb11358b58d462ac5f6b3f696aae455a4725</guid></item><item><title>【薬事審議会（医薬品等安全対策部会（安全対策調査会））】【2026-08-27】令和８年度第６回
-
-
-2026年8月27日（令和8年8月27日）
-（１）一般用医薬品のリスク区分について
-	・プロピベリン塩酸塩
-	（２）その他
-
-－
-
-資料NEW
-8月27日
-
-遵守事項等資料［PDF形式：180KB］NEW
-8月27日
-
-
-
-
-開催案内NEW
-8月20日</title><link>https://www.mhlw.go.jp/content/11121000/001742979.pdf</link><description>令和８年度第６回
-
-
-2026年8月27日（令和8年8月27日）
-（１）一般用医薬品のリスク区分について
-	・プロピベリン塩酸塩
-	（２）その他
-
-－
-
-資料NEW
-8月27日
-
-遵守事項等資料［PDF形式：180KB］NEW
-8月27日
-
-
-
-
-開催案内NEW
-8月20日</description><guid isPermaLink="false">https://www.mhlw.go.jp/content/11121000/001742979.pdf#20260827</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:107efb11358b58d462ac5f6b3f696aae455a4725</guid></item></channel></rss>
